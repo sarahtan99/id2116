@@ -1,6 +1,6 @@
 
 body {
-    background-color: lightblue;
+    background-color: lightpink;
   }
   
   h1 {
@@ -9,6 +9,6 @@ body {
   }
   
   p {
-    font-family: verdana;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
   }
